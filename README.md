@@ -1,5 +1,3 @@
-
-# Markdown
 ## Image Generator with Angular & DALL·E
 
 This project demonstrates the integration of an Angular frontend with OpenAI's DALL·E image generation service using an Express.js backend. It is inspired by the work of Bryan Hannes (https://github.com/bryanhannes) and has been refactored to use the latest Angular (17.2.4) and Azure DALL·E 3 API.
